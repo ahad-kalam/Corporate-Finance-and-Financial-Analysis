@@ -23,4 +23,4 @@ This repository contains detailed solutions for finance-related tasks as part of
 I am **Abdul Ahad**, an MBA student specializing in **Business Analytics** with a passion for **finance**, **data analysis**, and **corporate strategy**. This repository reflects my commitment to developing practical solutions through analytical thinking and industry knowledge.
 
 ### 📫 Contact
-For collaboration or inquiries, feel free to connect with me on **[LinkedIn]((https://www.linkedin.com/in/abdulahadkalam/))**.
+For collaboration or inquiries, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/abdulahadkalam/)**.
